@@ -20,6 +20,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 ---
 
 What has inside?
+I am adding some text here!! WOW LOOK AT IT!
 
 - Gulp
 - BrowserSync
