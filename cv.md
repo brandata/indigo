@@ -1,7 +1,7 @@
 ---
 title: CV
 layout: page
-permalink: /cv/index.html
+permalink: /CV/index.html
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
