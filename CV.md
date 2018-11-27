@@ -5,15 +5,13 @@ permalink: /CV/index.html
 ---
 
 ## Education
----
 ### Georgia Institute of Technology
 #### Masters in Computer Science - Machine Learning Specialization - 2017-2018
 
 ### Queen's University
 #### B.A.Sc Degree in Mechanical Engineering - 2008-2012
-
-# Work
 ---
+## Work
 ### Siemens Canada
 #### Engineering Project Support 2013-2017
 ##### PLM Project
@@ -24,4 +22,14 @@ permalink: /CV/index.html
 - Worked with solutions team to develop a deployment plan best suited for the client’s needs
 - Generated proposals and budgets to be used for sales purposes
 ##### Siemens Engineering and Technology Academy
+- Provided project support in the creation of a new youth development program within Siemens
+- Created project schedules, timelines, and contributed to cost estimate and budget documentation
+- Presented the program at various schools throughout Ontario and networked with potential students
 ##### Engineering Enabler Project
+- Part of Engineering Enabler Team, tasked with realizing CEO Robert Hardt's Country Opportunity Plan aimed at capitalizing on Siemens engineering strengths to drive future growth
+- Helped develop plan to enhance the cohesiveness of the engineering culture within Siemens to help increase the retention of current employees and better attract new employees
+- Part of small team tasked with restructuring Siemens Canada's internal engineering career path infrastructure
+### University of Toronto
+#### Research Technician - 2012
+### Queen's University
+#### NSERC Researcher - 2011
