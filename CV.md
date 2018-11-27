@@ -4,7 +4,8 @@ layout: page
 permalink: /CV/index.html
 ---
 
-# Education
+## Education
+---
 ### Georgia Institute of Technology
 #### Masters in Computer Science - Machine Learning Specialization - 2017-2018
 
@@ -12,6 +13,7 @@ permalink: /CV/index.html
 #### B.A.Sc Degree in Mechanical Engineering - 2008-2012
 
 # Work
+---
 ### Siemens Canada
 #### Engineering Project Support 2013-2017
 ##### PLM Project
@@ -20,6 +22,6 @@ permalink: /CV/index.html
 - Identified issues present within the business/engineering processes and uncovered root causes
 - Aligned software solutions to business requirements, targeting high potential areas first
 - Worked with solutions team to develop a deployment plan best suited for the client’s needs
-- Generated proposals and budgets to be used for sales purposes 
+- Generated proposals and budgets to be used for sales purposes
 ##### Siemens Engineering and Technology Academy
 ##### Engineering Enabler Project
