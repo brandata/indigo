@@ -7,7 +7,7 @@ permalink: /CV/index.html
 ## Education
 ### Georgia Institute of Technology
 #### Masters in Computer Science - Machine Learning Specialization - 2017-2018
-
+Graduated with a Masters in Computer Science with a specialization in Machine Learning. Practical experience in Computer Vision, Deep Learning, Machine Learning, Reinforcement Learning, and Artificial Intelligence.
 
 ### Queen's University
 #### B.A.Sc Degree in Mechanical Engineering - 2008-2012
@@ -16,9 +16,7 @@ General mechanical engineering option. Experience with aspects of electrical eng
 ---
 ## Work
 ### Siemens Canada
-#### Engineering Project Support 2013-2017
-
-##### PLM Project
+#### Internal PLM Consultant Sept. 2015 - Sept. 2016
 
 - Part of Siemens Product Lifecycle Management (PLM) Team, tasked with improving the manufacturing and engineering efficiency of Siemens through the deployment of Siemens owned PLM software
 - Conducted site visits and interviews in various Siemens plants to map all business and engineering processes and their associated IT/software systems
@@ -26,6 +24,8 @@ General mechanical engineering option. Experience with aspects of electrical eng
 - Aligned software solutions to business requirements, targeting high potential areas first
 - Worked with solutions team to develop a deployment plan best suited for the client’s needs
 - Generated proposals and budgets to be used for sales purposes
+
+#### Engineering Project Support 2013-2016
 
 ##### Siemens Engineering and Technology Academy
 
